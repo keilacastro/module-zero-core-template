@@ -19,7 +19,7 @@
     "mobx": "^5.5.2",
     "mobx-react": "^5.3.6",
     "moment": "^2.22.2",
-    "moment-timezone": "^0.5.23",
+    "moment-timezone": "^0.5.35",
     "query-string": "^6.2.0",
     "react": "^16.6.0",
     "react-app-rewired": "^1.6.2",
